@@ -1,7 +1,7 @@
 # 📝 To-Do List Web App  
-### **Elevate Web Development Internship — Task 2**
+### **Elevate Labs Web Development Internship — Task 2**
 
-This project is a simple and clean **To-Do List Web Application** built using  
+This project is a simple and clean **To-Do app** built using  
 **HTML, CSS, and Vanilla JavaScript**.
 
 It fulfills all the required tasks:
@@ -26,6 +26,8 @@ Each task includes a small **X button** to delete it instantly.
 ### ✔ Real-Time DOM Updates  
 No page reload required. Everything updates instantly using JavaScript.
 
+
+## 📂 Folder Structure
 Elevate-Internship-Task-2/
 │── index.html
 │── style.css
@@ -33,5 +35,5 @@ Elevate-Internship-Task-2/
 └── README.md
 
 
-## 📂 Folder Structure
+
 
